@@ -10,7 +10,7 @@
 
   <p align="center">
     <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-    <a href="https://github.com/ishandutta2007/Awesome-Service-Catalog/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Service-Catalog?style=flat-square&logo=github&color=38bdf8" alt="GitHub Stars"/></a>
+    <a href="https://github.com/ishandutta2007/Awesome-Service-Catalog/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Service-Catalog?style=flat-square&logo=github&color=38bdf8" alt="GitHub_Stars"/></a>
     <a href="https://github.com/ishandutta2007/Awesome-Service-Catalog/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Service-Catalog?style=flat-square&logo=github&color=818cf8" alt="GitHub Forks"/></a>
     <a href="https://github.com/ishandutta2007/Awesome-Service-Catalog/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Service-Catalog?style=flat-square&color=c084fc" alt="License"/></a>
     <a href="https://github.com/ishandutta2007/Awesome-Service-Catalog/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
@@ -80,49 +80,49 @@ The table below catalogs premier commercial SaaS solutions for enterprise Servic
 
 ## 🔓 Open-Source GitHub Projects (Ranked by Stars)
 
-Sovereign, community-driven, and self-hosted open-source ITSM and request portal platforms. Entries are sorted in descending order by **GitHub Star Count**, with live social star badges linking directly to each project's stargazers community.
+Sovereign, community-driven, and self-hosted open-source ITSM and request portal platforms. Entries are sorted in descending order by **GitHub Stars_Count**, with live social Stars_Badges linking directly to each project's stargazers community.
 
-- **[GLPI](https://github.com/glpi-project/glpi)** [![GitHub stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers)  
+- **[GLPI](https://github.com/glpi-project/glpi)** [![GitHub_Stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers)  
   *Comprehensive Open-Source ITSM &amp; Service Management Platform (GPL-3.0)*  
   Features an enterprise-grade service catalog module for defining complex requestable items, multi-criteria ticket forms, automated approval routings, and SLA timers. Natively integrates with a comprehensive CMDB, asset inventory, project management, and financial tracking for end-to-end hardware and software request fulfillment.
 
-- **[Zammad](https://github.com/zammad/zammad)** [![GitHub stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers)  
+- **[Zammad](https://github.com/zammad/zammad)** [![GitHub_Stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers)  
   *Web-Based User-Centric Helpdesk &amp; Service Request System (AGPL-3.0)*  
   Delivers a modern, lightning-fast customer and employee portal with customizable request objects, dynamic forms, and multi-channel intake (Email, Web, Telegram, Twitter/X). Features fine-grained SLA management, auto-assignment rules, time tracking, and bi-directional REST APIs for backend fulfillment automation.
 
-- **[FreeScout](https://github.com/freescout-help-desk/freescout)** [![GitHub stars](https://img.shields.io/github/stars/freescout-help-desk/freescout?style=social&color=white)](https://github.com/freescout-help-desk/freescout/stargazers)  
+- **[FreeScout](https://github.com/freescout-help-desk/freescout)** [![GitHub_Stars](https://img.shields.io/github/stars/freescout-help-desk/freescout?style=social&color=white)](https://github.com/freescout-help-desk/freescout/stargazers)  
   *Lightweight Self-Hosted Help Desk &amp; Shared Mailbox Solution (AGPL-3.0)*  
   A modern PHP/Laravel-based ticketing engine optimized for high-speed request handling. Extended via modular plugins to deliver self-service portals, custom input fields, automated workflows, knowledge base deflection, satisfaction ratings, and SLA compliance alerts.
 
-- **[osTicket](https://github.com/osTicket/osTicket)** [![GitHub stars](https://img.shields.io/github/stars/osTicket/osTicket?style=social&color=white)](https://github.com/osTicket/osTicket/stargazers)  
+- **[osTicket](https://github.com/osTicket/osTicket)** [![GitHub_Stars](https://img.shields.io/github/stars/osTicket/osTicket?style=social&color=white)](https://github.com/osTicket/osTicket/stargazers)  
   *Time-Tested Open-Source Customer Support &amp; Request Portal (GPL-2.0)*  
   One of the most battle-tested open-source help desk applications globally. Features **Help Topics** that serve as a clean, structured service catalog menu, pairing tailored custom forms, dynamic routing rules, automated assignment filters, and auto-responder notifications.
 
-- **[Frappe Helpdesk](https://github.com/frappe/helpdesk)** [![GitHub stars](https://img.shields.io/github/stars/frappe/helpdesk?style=social&color=white)](https://github.com/frappe/helpdesk/stargazers)  
+- **[Frappe Helpdesk](https://github.com/frappe/helpdesk)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/helpdesk?style=social&color=white)](https://github.com/frappe/helpdesk/stargazers)  
   *Modern Full-Featured Open-Source Service Desk Built on Frappe (GPL-3.0)*  
   Built with Python and Vue.js on the Frappe Framework. Delivers customizable ticket types, dynamic form templates, integrated knowledge base for instant request deflection, SLA management, and seamless Docker deployment. Integrates natively with ERPNext for unified enterprise procurement.
 
-- **[Helpy](https://github.com/helpyio/helpy)** [![GitHub stars](https://img.shields.io/github/stars/helpyio/helpy?style=social&color=white)](https://github.com/helpyio/helpy/stargazers)  
+- **[Helpy](https://github.com/helpyio/helpy)** [![GitHub_Stars](https://img.shields.io/github/stars/helpyio/helpy?style=social&color=white)](https://github.com/helpyio/helpy/stargazers)  
   *Mobile-Ready Open-Source Helpdesk &amp; Knowledge Base (MIT)*  
   Built with Ruby on Rails, providing a customer and employee self-service portal, integrated knowledge base search, multi-language localization, and multi-channel ticket processing. Ideal for teams seeking an easy-to-customize, mobile-responsive service storefront.
 
-- **[Trudesk](https://github.com/polonel/trudesk)** [![GitHub stars](https://img.shields.io/github/stars/polonel/trudesk?style=social&color=white)](https://github.com/polonel/trudesk/stargazers)  
+- **[Trudesk](https://github.com/polonel/trudesk)** [![GitHub_Stars](https://img.shields.io/github/stars/polonel/trudesk?style=social&color=white)](https://github.com/polonel/trudesk/stargazers)  
   *Real-Time Open-Source Helpdesk &amp; Request Engine (Apache-2.0)*  
   Constructed on Node.js and MongoDB, providing real-time socket-based ticket updates, dynamic ticket types for service classification, role-based access control (RBAC), and team collaboration features with clean Docker orchestration.
 
-- **[Faveo Helpdesk](https://github.com/faveosuite/faveo-helpdesk)** [![GitHub stars](https://img.shields.io/github/stars/faveosuite/faveo-helpdesk?style=social&color=white)](https://github.com/faveosuite/faveo-helpdesk/stargazers)  
+- **[Faveo Helpdesk](https://github.com/faveosuite/faveo-helpdesk)** [![GitHub_Stars](https://img.shields.io/github/stars/faveosuite/faveo-helpdesk?style=social&color=white)](https://github.com/faveosuite/faveo-helpdesk/stargazers)  
   *Responsive Multi-Channel ITSM &amp; Service Portal Solution (GPL-3.0)*  
   Provides an ITIL-inspired service management workflow with structured service categories, custom request forms, multi-level escalation matrices, SLA monitoring, and built-in client portal capabilities for tracking status in real time.
 
-- **[iTop](https://github.com/Combodo/iTop)** [![GitHub stars](https://img.shields.io/github/stars/Combodo/iTop?style=social&color=white)](https://github.com/Combodo/iTop/stargazers)  
+- **[iTop](https://github.com/Combodo/iTop)** [![GitHub_Stars](https://img.shields.io/github/stars/Combodo/iTop?style=social&color=white)](https://github.com/Combodo/iTop/stargazers)  
   *Complete ITIL-Aligned ITSM &amp; CMDB Service Catalog Platform (AGPL-3.0)*  
   A mature, ITIL-compliant platform featuring a dedicated **Service Catalog module**. Allows administrators to construct hierarchical service families, service subcategories, and request contracts linked directly to a Configuration Management Database (CMDB) for impact analysis and SLA governance.
 
-- **[Znuny](https://github.com/znuny/Znuny)** [![GitHub stars](https://img.shields.io/github/stars/znuny/Znuny?style=social&color=white)](https://github.com/znuny/Znuny/stargazers)  
+- **[Znuny](https://github.com/znuny/Znuny)** [![GitHub_Stars](https://img.shields.io/github/stars/znuny/Znuny?style=social&color=white)](https://github.com/znuny/Znuny/stargazers)  
   *Enterprise-Grade Open-Source ITSM &amp; Ticket System (GPL-3.0)*  
   The community continuation and active fork of OTRS. Provides a customer self-service portal, service and service-item structuring, robust process management with graphical workflow design, and strict SLA escalation controls.
 
-- **[heidsoft ITSM](https://github.com/heidsoft/itsm)** [![GitHub stars](https://img.shields.io/github/stars/heidsoft/itsm?style=social&color=white)](https://github.com/heidsoft/itsm/stargazers)  
+- **[heidsoft ITSM](https://github.com/heidsoft/itsm)** [![GitHub_Stars](https://img.shields.io/github/stars/heidsoft/itsm?style=social&color=white)](https://github.com/heidsoft/itsm/stargazers)  
   *AI-Native Enterprise ITSM Platform with BPMN Orchestration (Apache-2.0)*  
   A modern, AI-augmented ITSM platform covering incident management, **service catalog**, knowledge bases, CMDB, and BPMN fulfillment workflows. Embeds generative AI for automated request triage, ticket summarization, and RAG-powered self-service answers.
 
