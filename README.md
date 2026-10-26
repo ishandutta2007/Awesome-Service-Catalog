@@ -80,7 +80,7 @@ The table below catalogs premier commercial SaaS solutions for enterprise Servic
 
 ## 🔓 Open-Source GitHub Projects (Ranked by Stars)
 
-Sovereign, community-driven, and self-hosted open-source ITSM and request portal platforms. Entries are sorted in descending order by **GitHub Stars_Count**, with live social Stars_Badges linking directly to each project's stargazers community.
+Sovereign, community-driven, and self-hosted open-source ITSM and request portal platforms. Entries are sorted in descending order by **GitHub_Stars_Count**, with live social Stars_Badges linking directly to each project's stargazers community.
 
 - **[GLPI](https://github.com/glpi-project/glpi)** [![GitHub_Stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers)  
   *Comprehensive Open-Source ITSM &amp; Service Management Platform (GPL-3.0)*  
